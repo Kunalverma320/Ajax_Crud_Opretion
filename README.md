@@ -22,7 +22,7 @@ Follow these steps to install the project:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Kunalverma320/ChatApp.git
+git clone https://github.com/Kunalverma320/Ajax_Crud_Opretion.git
 cd fileupload
 
 2. Install Dependencies
